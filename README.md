@@ -15,3 +15,13 @@ Task Management System :
   7. Search Tasks
   8. Save Tasks : saving the tasks from the tasks collection to a data file.
   9. LoadTasks : loading tasks from a data file and populating a collection (tasks) with the loaded data.
+  10. Sort Tasks By Description
+  11. Sort Tasks By CompletionStatus
+
+Using :
+  1. Collections
+  2. delegates
+  3. enums
+  4. classes
+     
+  
